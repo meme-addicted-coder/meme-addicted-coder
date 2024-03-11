@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **MERN Stack, AI & ML Fundamentals**
 
-- 📫 How to reach me **bhabnashre.work@gmail.com**
+- 📫 Reach me at **bhabnashre.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
