@@ -5,7 +5,7 @@ meme-addicted-coder/meme-addicted-coder is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Bhabnashre Dutta Roy</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer from India and Java Coder.</h3>
 
 
 - 🌱 I’m currently learning **MERN Stack, AI & ML Fundamentals**
