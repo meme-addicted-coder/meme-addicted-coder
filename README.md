@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A passionate software developer from India and Java Coder.</h3>
 
 
-- 🌱 I’m currently learning **MERN Stack, AI & ML Fundamentals**
+- 🌱 I’m currently learning **AI & ML Fundamentals**
 
 - 📫 Reach me at **bhabnashre.work@gmail.com**
 
